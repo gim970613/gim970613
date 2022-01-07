@@ -1,12 +1,8 @@
 
-div{
- text_align : center;
-}
-<div>
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=slowly%20but%20definitely...&fontSize=80&fontColor=1E90FF)
-</div>
 
 
+<h3>어서오세요\</h3>
 어서오세요\
 잘 부탁드립니다\
 천천히 둘러보세요
