@@ -2,8 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEFA&height=300&section=header&text=slowly%20but%20definitely...&fontSize=80&fontColor=1E90FF)
 
-<h3>어서오세요</h3>
-<br><br>
+<h1>반갑습니다. Dev Kim 입니다.</h1>
+<br>
+<h3>천천히 둘러보시길 바랍니다.</h3>
+<br>
+<br>
 <h3>SKILL</h3>
 <br>
 
