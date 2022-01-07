@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soilder%20Coder&fontSize=90&fontColor=d6ace6
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soilder%20Coder&fontSize=90&fontColor=d6ace6)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
