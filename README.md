@@ -32,6 +32,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Miro](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=Miro&logoColor=yellow)
+![Miro](https://img.shields.io/badge/Miro-%050038.svg?style=for-the-badge&logo=Miro&logoColor=black&color=FFFF00)
 
 
