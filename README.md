@@ -2,13 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEFA&height=300&section=header&text=slowly%20but%20definitely...&fontSize=80&fontColor=1E90FF)
 
-<h3 style="text-align:center">어서오세요</h3>
-<br>
-
-<p style="text-align:center">This line will be centered.<br>
-And so will this line.</p>
-
-
+<h3>어서오세요</h3>
+<br><br>
+<h3>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
