@@ -1,4 +1,8 @@
-<div center>
+
+div{
+ text_align : center;
+}
+<div textcenter>
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=slowly%20but%20definitely...&fontSize=80&fontColor=1E90FF)
 </div>
 
