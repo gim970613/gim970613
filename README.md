@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=slowly%20but%20definitely...&fontSize=80&fontColor=1E90FF)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <h3>어서오세요</h3>
 <br>
