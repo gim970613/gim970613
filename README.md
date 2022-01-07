@@ -5,8 +5,8 @@
 <h3>어서오세요</h3>
 <br>
 
-<center>This text will be centered.
-<p>So will this paragraph.</p></center>
+<p style="text-align:center">This line will be centered.<br>
+And so will this line.</p>
 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
